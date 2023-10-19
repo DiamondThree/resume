@@ -3,9 +3,7 @@
   - **Name**: Haoxin Shang
   - **Gender**: Male
   - **Date of Birth**: March 1995
-  - **Marital Status**: Single
   - **Education**: Bachelor's Degree in Software Engineering
-  - **Contact**: +17693128802
   - **Email**: diamond.shx@gmail.com
   - **Github**: [https://github.com/DiamondThree](https://github.com/DiamondThree)
 
